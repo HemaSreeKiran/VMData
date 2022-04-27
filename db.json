@@ -1,6 +1,6 @@
 {
 	"users": [{
-			"Id": "01",
+			"id": "01",
 			"Firstname": "Dr.Murali Krishna",
 			"Lastname": "Vakalapudi",
 			"EmailID": "MKV@VM.com",
@@ -16,7 +16,7 @@
 			"Status": "Active"
 		},
 		{
-			"Id": "02",
+			"id": "02",
 			"Firstname": "Venkat",
 			"Lastname": "P",
 			"EmailID": "Venkat@VM.com",
@@ -32,7 +32,7 @@
 			"Status": "Active"
 		},
 		{
-			"Id": "03",
+			"id": "03",
 			"Firstname": "Murthy",
 			"Lastname": "Dirisala",
 			"EmailID": "Murthy@VM.com",
@@ -48,7 +48,7 @@
 			"Status": "Active"
 		},
 		{
-			"Id": "04",
+			"id": "04",
 			"Firstname": "Gopal",
 			"Lastname": "P",
 			"EmailID": "Gopal@VM.com",
@@ -64,7 +64,7 @@
 			"Status": "Active"
 		},
 		{
-			"Id": "05",
+			"id": "05",
 			"Firstname": "Vasu",
 			"Lastname": "Parimi",
 			"EmailID": "Vasu@VM.com",
@@ -81,25 +81,25 @@
 		}
 	],
 	"roles": [{
-			"Id": "01",
+			"id": "01",
 			"Role": "CEO",
 			"Description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur voluptates a corporis praesentium itaque eos omnis sunt sapiente cum obcaecati!",
 			"Status": "Active"
 		},
 		{
-			"Id": "02",
+			"id": "02",
 			"Role": "UI/UX Design Team Lead",
 			"Description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur voluptates a corporis praesentium itaque eos omnis sunt sapiente cum obcaecati!",
 			"Status": "Active"
 		},
 		{
-			"Id": "03",
+			"id": "03",
 			"Role": "Sr.UI/UX Designer",
 			"Description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur voluptates a corporis praesentium itaque eos omnis sunt sapiente cum obcaecati!",
 			"Status": "Active"
 		},
 		{
-			"Id": "04",
+			"id": "04",
 			"Role": "Human Resources",
 			"Description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur voluptates a corporis praesentium itaque eos omnis sunt sapiente cum obcaecati!",
 			"Status": "Active"
